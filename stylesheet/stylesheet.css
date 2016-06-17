@@ -1,0 +1,60 @@
+h1
+{
+	font-size:9vw;
+	color:blue;
+	font-family:Vivaldi, cursive;
+	text-align:center;
+	margin-top:0;
+}
+
+h2
+{
+	font-size:4em;
+	font-family:Arial;
+	text-align:center;
+	margin-top:0;
+}
+
+h3
+{
+	font-size:2em;
+	font-family:Arial;
+	text-align:center;
+	margin-bottom:0;
+	margin-top:0;
+}
+
+h4
+{
+	font-size:1.5em;
+	font-family:Arial;
+	text-align:center;
+	margin-bottom:0;
+	margin-top:0;
+}
+
+body
+{
+	background-color:#035671; /* #b7d1c4 */
+}
+
+a
+{
+	text-decoration:none;
+	color:black;
+	font-size:7vw;
+	font-family:Arial;
+}
+
+div
+{
+	border-radius:1em;
+	resize:both;
+}
+
+img
+{
+	border-radius:2em;
+	max-height:30em;
+	max-width:30em;
+}
